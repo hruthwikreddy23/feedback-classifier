@@ -450,7 +450,18 @@ This project is released under the MIT License. See the `LICENSE` file for detai
 
 ## Acknowledgments
 
+<<<<<<< HEAD
 - [FastAPI](https://fastapi.tiangolo.com/) — the API framework
 - [Streamlit](https://streamlit.io/) — the dashboard framework
 - [Google Gemini](https://ai.google.dev/) — the LLM
 - [OpenAI Python SDK](https://github.com/openai/openai-python) — the client library used against Gemini's compatible endpoint
+=======
+- FastAPI — fast Python API framework
+- Streamlit — simple data apps and dashboards
+- Google Gemini — LLM used via an OpenAI-compatible endpoint
+- OpenAI Python SDK — used as a client wrapper against Gemini's endpoint
+
+#   f e e d b a c k - c l a s s i f i e r 
+ 
+ 
+>>>>>>> a29d4ee14a52c9a7e23d076ef3334f5fa2e21880
