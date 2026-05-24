@@ -170,7 +170,7 @@ feedback_classifier/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/feedback-classifier.git
+git clone https://github.com/hruthwikreddy23/feedback-classifier.git
 cd feedback-classifier
 ```
 
